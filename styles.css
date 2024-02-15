@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.box1 img{
+width: 200px;
+height: auto;
+margin:1rem;
+
+border-radius: 40px;
+border: 5px solid black;
+}
+
